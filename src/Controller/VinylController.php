@@ -37,4 +37,4 @@ class VinylController extends AbstractController
             'mixes' => $mixes,
         ]);
     }
-}
+}   
